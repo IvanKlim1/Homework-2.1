@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.MainKtTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-05-15T16:02:23" hostname="NARUTO" time="0.202">
+  <properties/>
+  <testcase name="commissionCommissionVisa" classname="ru.netology.MainKtTest" time="0.163"/>
+  <testcase name="commissionCommissionMaster" classname="ru.netology.MainKtTest" time="0.003"/>
+  <testcase name="commissionNonCommissionMaster" classname="ru.netology.MainKtTest" time="0.004"/>
+  <testcase name="commissionCommissionVK_Pay" classname="ru.netology.MainKtTest" time="0.004"/>
+  <testcase name="commissionCommissionVisaAndMir" classname="ru.netology.MainKtTest" time="0.014"/>
+  <system-out><![CDATA[Operation is not possible
+commission: 6002000
+commission: 0
+commission: 0
+commission: 75000
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
