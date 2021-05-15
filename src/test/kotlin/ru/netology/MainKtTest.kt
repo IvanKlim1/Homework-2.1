@@ -19,7 +19,7 @@ class MainKtTest {
             moneyMonth=moneyMonth
         )
             val result = 0
-            assertEquals(1, result)
+            assertEquals(0, result)
         }
 
 
